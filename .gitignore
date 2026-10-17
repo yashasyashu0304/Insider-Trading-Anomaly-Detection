@@ -1,0 +1,17 @@
+# Large data files — download from NSE India (link in README)
+CF-PIT-Annual-equities-02-01-2023-to-01-01-2026.csv
+cleaned_trades.csv
+features.csv
+anomaly_scores.csv
+insider_trading.db
+insider_trading_powerbi.xlsx
+
+# Python virtual environment
+.venv/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Mac system files
+.DS_Store
+.claude/
